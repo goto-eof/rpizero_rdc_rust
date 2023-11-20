@@ -1,4 +1,4 @@
-# Raspberry Pi Zero W | Remote Device Control (Rust)
+# Raspberry Pi Zero W | Remote Device Control Server (Rust)
 
 Server application for Raspberry Pi Zero W which allows to control remotely a led. The client side can be found at this [link](https://github.com/goto-eof/rpizero_rdc_ts).
 
