@@ -1,0 +1,6 @@
+{
+  "workbench.colorCustomizations": {
+    "editorUnnecessaryCode.border": "#d55151"
+  },
+  "rust-analyzer.linkedProjects": ["./Cargo.toml"]
+}
